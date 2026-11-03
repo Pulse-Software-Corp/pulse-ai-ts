@@ -1,0 +1,16 @@
+{
+    "cliVersion": "5.172.1",
+    "generatorName": "fernapi/fern-typescript-node-sdk",
+    "generatorVersion": "3.108.0",
+    "generatorConfig": {
+        "namespaceExport": "Pulse",
+        "noSerdeLayer": false,
+        "defaultTimeoutInSeconds": "infinity"
+    },
+    "originGitCommit": "31a2314a8411d048463161b6691bee51479bdb6f",
+    "originGitCommitIsDirty": false,
+    "invokedBy": "ci",
+    "requestedVersion": "2.0.0",
+    "ciProvider": "github",
+    "sdkVersion": "2.0.0"
+}
